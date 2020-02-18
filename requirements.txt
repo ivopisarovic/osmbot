@@ -1,0 +1,6 @@
+--index-url https://pypi.rasa.com/simple
+setuptools
+rasa
+rasa-sdk
+rasa-x
+SPARQLWrapper
