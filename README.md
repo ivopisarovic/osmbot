@@ -19,4 +19,4 @@ In the project folder:
 The chatbot can react to `hi` or `hello`.
 
 The chatbot can find the most populous city of a country by typing e.g.:
-`What is the most populous city of Zimbabwe?` It uses SPARQL API to find the answer in the Wikidata Knowledge Base (https://query.wikidata.org/), see `actions.py`.
+`What is the most populous city of Zimbabwe?` It uses SPARQL API to find the answer in the Wikidata Knowledge Base (https://query.wikidata.org/), see `actions.py`. It may take up to 15 secs to find the answer.
