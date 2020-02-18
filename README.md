@@ -1,3 +1,8 @@
+## Prerequisities
+
+- Python 3.6 or newer
+- Pip https://pip.pypa.io/en/stable/installing/
+
 ## First Run
 
 In the project folder:
